@@ -26,3 +26,4 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 </p>
 
 ## Summary
+Unexpectedly, there does not appear to be a positivity bias for Vine reviews in this data set, as 54% of the non-Vine reviews were 5-star and only 38% of the Vine reviews were 5 star. However, it may be worthwhile to examine the median and standard deviation of the reviews for each group, as it's possible that the Vine group may have less 1 and 2-star reviews than the non-Vine group. In addition, it would be interesting to determine how much of an effect the Vine reviews have on the average rating of a products. This could be evaluated by selecting a specific product which has a large number of reviews, getting the average rating with and without Vine reviews included, and then comparing the two averages using a t-test. 
