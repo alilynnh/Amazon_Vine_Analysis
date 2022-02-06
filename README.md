@@ -15,8 +15,8 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 - The number of 5-star non-Vine reviews greatly exceeded the number of 5-star Vine reviews.
 <p align="center" width="100%">
-    <img src="Resources/paid_5star.png" width="50%" height="50%">   
-    <img src="Resources/unpaid_5star.png" width="50%" height="50%">  
+    <img src="Resources/paid_5star.png" width="75%" height="75%">   
+    <img src="Resources/unpaid_5star.png" width="75%" height="75%">  
 <p/>
 
 - The non-Vine reviews had a higher percentage of 5-star reviews than the Vine reviews. 
